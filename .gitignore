@@ -1,0 +1,19 @@
+﻿# ---- C 编译产物 ----
+*.o
+*.obj
+server
+client
+*.exe
+
+# ---- 数据库与运行时数据 ----
+*.db
+*.db-journal
+netdisk.db
+
+# ---- 编辑器 / 系统 ----
+.vs/
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
